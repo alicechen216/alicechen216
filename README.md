@@ -23,7 +23,7 @@ A Math Phd , A single mother and AI trainer. Click [here]() to visit my website.
 
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=alicechen216&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LucyLing24&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
+  <img src = "https://github-readme-stats.vercel.app/api?username=alicechen216&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alicechen216&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </p>
 
