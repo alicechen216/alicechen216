@@ -22,14 +22,14 @@ I'm Alice, a Math Phd and AI trainer. Click [here]() to visit my website.
 #
 
 <p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=LucyLing24&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
+  <img src = "https://streak-stats.demolab.com?user=alicechen216&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
   <img src = "https://github-readme-stats.vercel.app/api?username=LucyLing24&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucyLing24&layout=compact&line_height=20&theme=dracula&border_radius=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alicechen216&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </p>
 
 
 <p align = "center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=alicechen216&theme=cotton-candy&radius=64">
   <br />
-  <img src = "https://komarev.com/ghpvc/?username=LucyLing24&label=PROFILE+VIEWS">
+  <img src = "https://komarev.com/ghpvc/?username=alicechen216&label=PROFILE+VIEWS">
 </p>
