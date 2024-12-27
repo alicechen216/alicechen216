@@ -5,7 +5,7 @@ I'm Alice, a Math Phd and AI trainer. Click [here]() to visit my website.
 - 🧸 Experiences: **[Colorado School of Mines](https://www.mines.edu/)** RA, 2014 -> **[COMSOL. Inc](https://www.comsol.com/)** RA, 2014 -> **[ALC. Inc](https://www.alcinc.com/)** Data Scientist, 2017
 - 🦾 Matlab / Python / SAS / C++
 - 📨 Email me at: [haoweichen@usf.edu](mailto:haoweichen@usf.edu)
-- 🐾 Find me at: LinkedIn: **[Haowei(Alice) Chen]**(https://www.linkedin.com/in/chenhaowei/)
+- 🐾 Find me at: LinkedIn: **[Haowei(Alice) Chen](https://www.linkedin.com/in/chenhaowei/)**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
