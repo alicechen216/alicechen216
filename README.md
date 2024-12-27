@@ -2,7 +2,7 @@
 I'm Alice, a Math Phd and AI trainer. Click [here]() to visit my website.
 - 🎓 **PhD** at [University of South Florida](https://www.usf.edu/), 01/2019-05/2025. Applied Mathematics **GPA: 3.8/4, rank: top 5%**.
 - 🎓 **Msc** [Missouri University of Science and Technology](https://www.mst.edu/), 01/2013-05/2015. **GPA: 3.8/4, rank: top 5%**.
-- 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023
+- 🧸 Experiences: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023
 - 🦾 Matlab / Python
 - 📨 Email me at: [haoweichen@usf.edu](mailto:haoweichen@usf.edu)
 - 🐾 Find me at: LinkedIn: **[Haowei(Alice) Chen](https://www.linkedin.com/in/chenhaowei/)
