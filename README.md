@@ -19,7 +19,7 @@ I'm Alice, a Math Phd and AI trainer. Click [here]() to visit my website.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-#
+
 
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=alicechen216&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
