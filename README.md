@@ -4,7 +4,7 @@ A Math Phd , A single mother and AI trainer. Click [here](https://alicechen216.g
 - 🎓 **Msc** [Missouri University of Science and Technology](https://www.mst.edu/), 01/2013-05/2015. **GPA: 3.9/4, rank: top 5%**.
 - 🧸 Experiences: **[Colorado School of Mines](https://www.mines.edu/)** RA, 2014 -> **[COMSOL. Inc](https://www.comsol.com/)** RA, 2014 -> **[ALC. Inc](https://www.alcinc.com/)** Data Scientist, 2017
 - 🦾 Matlab / Python / SAS / C++
-- 📨 Email me at: [haoweichen@usf.edu](mailto:haoweichen@usf.edu)
+- 📨 Email me at: [haoweichen@ufl.edu](mailto:haoweichen@ufl.edu)
 - 🐾 Find me at: LinkedIn: **[Haowei(Alice) Chen](https://www.linkedin.com/in/chenhaowei/)** Google Scholar:**[Haowei(Alice) Chen](https://scholar.google.com/citations?user=TLM2V2EAAAAJ&hl=en)**
 
 <p>
